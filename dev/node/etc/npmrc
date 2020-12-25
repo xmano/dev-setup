@@ -1,0 +1,4 @@
+cache = ${NODE_ENV_TMP}\.npm
+tmp = ${NODE_ENV_TMP}\tmp
+prefix = ${NODE_ENV}
+init-module = ${NODE_ENV}\.npm-init.js
